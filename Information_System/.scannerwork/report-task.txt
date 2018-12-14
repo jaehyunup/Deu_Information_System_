@@ -1,6 +1,0 @@
-projectKey=oom02:team03
-serverUrl=https://seps9.deu.ac.kr:9000
-serverVersion=6.7.5.38563
-dashboardUrl=https://seps9.deu.ac.kr:9000/dashboard/index/oom02:team03
-ceTaskId=AWdGsbX9vvD9KAEndc4x
-ceTaskUrl=https://seps9.deu.ac.kr:9000/api/ce/task?id=AWdGsbX9vvD9KAEndc4x

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.6" sequence="0" timestamp="1544330697000" analysisTimestamp="1544331586426" release="">
+  <Project>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CSmanagerPaymentModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CSmanagerPaymentView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CourseMainController.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CourseManageService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CourseModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CoursePMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/CourseSMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/MainController.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/Observer.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/ProfMainModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/ProfMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/ProfRankInsertModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/ProfRankInsertView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/StudentEnrolmentModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/StudentEnrolmentView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/StudentMainModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/StudentRankModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/CouserManageService/StudentRankView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/CourseDAO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/CourseDataBaseService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/CourseVO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/HaksaDAO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/HaksaDataBaseService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/HaksaVO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/ProfessorDAO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/ProfessorDataBaseService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/ProfessorVO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/RankDAO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/RankDataBaseService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/RankVO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/userDAO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/userDataBaseService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/DataBaseSystem/userVO.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaInsertView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaModifyView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaProfView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/HaksaManageService/HaksaStuView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureDeleteView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureMainController.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureMainModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureNewView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureRegisterView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureService.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/LectureManageSystem/LectureUpdateView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/TestPackage/CouserManageServiceMainTester.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/UserManageService/LoginView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/UserManageService/UserModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/BAMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/CSMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/ChangePasswordView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/Controller.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/InformationSystem.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/LoginModel.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/LoginView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/MainController.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/Model.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/PMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/SMainView.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/View.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/loginSpec.class</Jar>
+    <Jar>/Users/parkjaehyun/Desktop/Project/Information_System/bin/mainpackage/loginType.class</Jar>
+    <AuxClasspathEntry>/Users/parkjaehyun/Desktop/Project/Information_System/bin</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/parkjaehyun/Desktop/Project/Information_System/.scannerwork/findbugs/annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/parkjaehyun/Desktop/Project/Information_System/.scannerwork/findbugs/jsr305.jar</AuxClasspathEntry>
+    <WrkDir>/Users/parkjaehyun/Desktop/Project/Information_System/.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Sun, 9 Dec 2018 13:44:57 +0900" total_classes="64" referenced_classes="372" total_bugs="0" total_size="4249" num_packages="7" java_version="1.8.0_121" vm_version="25.121-b13" cpu_seconds="30.84" clock_seconds="10.79" peak_mbytes="725.30" alloc_mbytes="1820.50" gc_seconds="0.40">
+    <FileStats path="CouserManageService/CSmanagerPaymentModel.java" bugCount="0" size="20"/>
+    <FileStats path="CouserManageService/CSmanagerPaymentView.java" bugCount="0" size="77"/>
+    <FileStats path="CouserManageService/CourseMainController.java" bugCount="0" size="115"/>
+    <FileStats path="CouserManageService/CourseManageService.java" bugCount="0" size="9"/>
+    <FileStats path="CouserManageService/CourseModel.java" bugCount="0" size="1"/>
+    <FileStats path="CouserManageService/CoursePMainView.java" bugCount="0" size="42"/>
+    <FileStats path="CouserManageService/CourseSMainView.java" bugCount="0" size="48"/>
+    <FileStats path="CouserManageService/MainController.java" bugCount="0" size="24"/>
+    <FileStats path="CouserManageService/Observer.java" bugCount="0" size="3"/>
+    <FileStats path="CouserManageService/ProfMainModel.java" bugCount="0" size="6"/>
+    <FileStats path="CouserManageService/ProfMainView.java" bugCount="0" size="38"/>
+    <FileStats path="CouserManageService/ProfRankInsertModel.java" bugCount="0" size="35"/>
+    <FileStats path="CouserManageService/ProfRankInsertView.java" bugCount="0" size="132"/>
+    <FileStats path="CouserManageService/StudentEnrolmentModel.java" bugCount="0" size="74"/>
+    <FileStats path="CouserManageService/StudentEnrolmentView.java" bugCount="0" size="151"/>
+    <FileStats path="CouserManageService/StudentMainModel.java" bugCount="0" size="6"/>
+    <FileStats path="CouserManageService/StudentRankModel.java" bugCount="0" size="36"/>
+    <FileStats path="CouserManageService/StudentRankView.java" bugCount="0" size="104"/>
+    <FileStats path="DataBaseSystem/CourseDAO.java" bugCount="0" size="12"/>
+    <FileStats path="DataBaseSystem/CourseDataBaseService.java" bugCount="0" size="397"/>
+    <FileStats path="DataBaseSystem/CourseVO.java" bugCount="0" size="91"/>
+    <FileStats path="DataBaseSystem/HaksaDAO.java" bugCount="0" size="7"/>
+    <FileStats path="DataBaseSystem/HaksaDataBaseService.java" bugCount="0" size="182"/>
+    <FileStats path="DataBaseSystem/HaksaVO.java" bugCount="0" size="35"/>
+    <FileStats path="DataBaseSystem/ProfessorDAO.java" bugCount="0" size="2"/>
+    <FileStats path="DataBaseSystem/ProfessorDataBaseService.java" bugCount="0" size="56"/>
+    <FileStats path="DataBaseSystem/ProfessorVO.java" bugCount="0" size="10"/>
+    <FileStats path="DataBaseSystem/RankDAO.java" bugCount="0" size="5"/>
+    <FileStats path="DataBaseSystem/RankDataBaseService.java" bugCount="0" size="125"/>
+    <FileStats path="DataBaseSystem/RankVO.java" bugCount="0" size="90"/>
+    <FileStats path="DataBaseSystem/userDAO.java" bugCount="0" size="3"/>
+    <FileStats path="DataBaseSystem/userDataBaseService.java" bugCount="0" size="88"/>
+    <FileStats path="DataBaseSystem/userVO.java" bugCount="0" size="53"/>
+    <FileStats path="HaksaManageService/HaksaInsertView.java" bugCount="0" size="97"/>
+    <FileStats path="HaksaManageService/HaksaMainView.java" bugCount="0" size="42"/>
+    <FileStats path="HaksaManageService/HaksaModel.java" bugCount="0" size="71"/>
+    <FileStats path="HaksaManageService/HaksaModifyView.java" bugCount="0" size="109"/>
+    <FileStats path="HaksaManageService/HaksaProfView.java" bugCount="0" size="125"/>
+    <FileStats path="HaksaManageService/HaksaStuView.java" bugCount="0" size="125"/>
+    <FileStats path="LectureManageSystem/LectureDeleteView.java" bugCount="0" size="70"/>
+    <FileStats path="LectureManageSystem/LectureMainController.java" bugCount="0" size="28"/>
+    <FileStats path="LectureManageSystem/LectureMainModel.java" bugCount="0" size="53"/>
+    <FileStats path="LectureManageSystem/LectureMainView.java" bugCount="0" size="57"/>
+    <FileStats path="LectureManageSystem/LectureNewView.java" bugCount="0" size="140"/>
+    <FileStats path="LectureManageSystem/LectureRegisterView.java" bugCount="0" size="121"/>
+    <FileStats path="LectureManageSystem/LectureService.java" bugCount="0" size="7"/>
+    <FileStats path="LectureManageSystem/LectureUpdateView.java" bugCount="0" size="140"/>
+    <FileStats path="TestPackage/CouserManageServiceMainTester.java" bugCount="0" size="8"/>
+    <FileStats path="UserManageService/LoginView.java" bugCount="0" size="53"/>
+    <FileStats path="UserManageService/UserModel.java" bugCount="0" size="26"/>
+    <FileStats path="mainpackage/BAMainView.java" bugCount="0" size="50"/>
+    <FileStats path="mainpackage/CSMainView.java" bugCount="0" size="53"/>
+    <FileStats path="mainpackage/ChangePasswordView.java" bugCount="0" size="74"/>
+    <FileStats path="mainpackage/Controller.java" bugCount="0" size="1"/>
+    <FileStats path="mainpackage/InformationSystem.java" bugCount="0" size="8"/>
+    <FileStats path="mainpackage/LoginModel.java" bugCount="0" size="25"/>
+    <FileStats path="mainpackage/LoginView.java" bugCount="0" size="58"/>
+    <FileStats path="mainpackage/MainController.java" bugCount="0" size="474"/>
+    <FileStats path="mainpackage/Model.java" bugCount="0" size="1"/>
+    <FileStats path="mainpackage/PMainView.java" bugCount="0" size="53"/>
+    <FileStats path="mainpackage/SMainView.java" bugCount="0" size="53"/>
+    <FileStats path="mainpackage/View.java" bugCount="0" size="6"/>
+    <FileStats path="mainpackage/loginSpec.java" bugCount="0" size="22"/>
+    <FileStats path="mainpackage/loginType.java" bugCount="0" size="22"/>
+    <PackageStats package="CouserManageService" total_bugs="0" total_types="18" total_size="921">
+      <ClassStats class="CouserManageService.CSmanagerPaymentModel" sourceFile="CSmanagerPaymentModel.java" interface="false" size="20" bugs="0"/>
+      <ClassStats class="CouserManageService.CSmanagerPaymentView" sourceFile="CSmanagerPaymentView.java" interface="false" size="77" bugs="0"/>
+      <ClassStats class="CouserManageService.CourseMainController" sourceFile="CourseMainController.java" interface="false" size="115" bugs="0"/>
+      <ClassStats class="CouserManageService.CourseManageService" sourceFile="CourseManageService.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="CouserManageService.CourseModel" sourceFile="CourseModel.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="CouserManageService.CoursePMainView" sourceFile="CoursePMainView.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="CouserManageService.CourseSMainView" sourceFile="CourseSMainView.java" interface="false" size="48" bugs="0"/>
+      <ClassStats class="CouserManageService.MainController" sourceFile="MainController.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="CouserManageService.Observer" sourceFile="Observer.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="CouserManageService.ProfMainModel" sourceFile="ProfMainModel.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="CouserManageService.ProfMainView" sourceFile="ProfMainView.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="CouserManageService.ProfRankInsertModel" sourceFile="ProfRankInsertModel.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="CouserManageService.ProfRankInsertView" sourceFile="ProfRankInsertView.java" interface="false" size="132" bugs="0"/>
+      <ClassStats class="CouserManageService.StudentEnrolmentModel" sourceFile="StudentEnrolmentModel.java" interface="false" size="74" bugs="0"/>
+      <ClassStats class="CouserManageService.StudentEnrolmentView" sourceFile="StudentEnrolmentView.java" interface="false" size="151" bugs="0"/>
+      <ClassStats class="CouserManageService.StudentMainModel" sourceFile="StudentMainModel.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="CouserManageService.StudentRankModel" sourceFile="StudentRankModel.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="CouserManageService.StudentRankView" sourceFile="StudentRankView.java" interface="false" size="104" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="DataBaseSystem" total_bugs="0" total_types="15" total_size="1156">
+      <ClassStats class="DataBaseSystem.CourseDAO" sourceFile="CourseDAO.java" interface="true" size="12" bugs="0"/>
+      <ClassStats class="DataBaseSystem.CourseDataBaseService" sourceFile="CourseDataBaseService.java" interface="false" size="397" bugs="0"/>
+      <ClassStats class="DataBaseSystem.CourseVO" sourceFile="CourseVO.java" interface="false" size="91" bugs="0"/>
+      <ClassStats class="DataBaseSystem.HaksaDAO" sourceFile="HaksaDAO.java" interface="true" size="7" bugs="0"/>
+      <ClassStats class="DataBaseSystem.HaksaDataBaseService" sourceFile="HaksaDataBaseService.java" interface="false" size="182" bugs="0"/>
+      <ClassStats class="DataBaseSystem.HaksaVO" sourceFile="HaksaVO.java" interface="false" size="35" bugs="0"/>
+      <ClassStats class="DataBaseSystem.ProfessorDAO" sourceFile="ProfessorDAO.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="DataBaseSystem.ProfessorDataBaseService" sourceFile="ProfessorDataBaseService.java" interface="false" size="56" bugs="0"/>
+      <ClassStats class="DataBaseSystem.ProfessorVO" sourceFile="ProfessorVO.java" interface="false" size="10" bugs="0"/>
+      <ClassStats class="DataBaseSystem.RankDAO" sourceFile="RankDAO.java" interface="true" size="5" bugs="0"/>
+      <ClassStats class="DataBaseSystem.RankDataBaseService" sourceFile="RankDataBaseService.java" interface="false" size="125" bugs="0"/>
+      <ClassStats class="DataBaseSystem.RankVO" sourceFile="RankVO.java" interface="false" size="90" bugs="0"/>
+      <ClassStats class="DataBaseSystem.userDAO" sourceFile="userDAO.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="DataBaseSystem.userDataBaseService" sourceFile="userDataBaseService.java" interface="false" size="88" bugs="0"/>
+      <ClassStats class="DataBaseSystem.userVO" sourceFile="userVO.java" interface="false" size="53" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="HaksaManageService" total_bugs="0" total_types="6" total_size="569">
+      <ClassStats class="HaksaManageService.HaksaInsertView" sourceFile="HaksaInsertView.java" interface="false" size="97" bugs="0"/>
+      <ClassStats class="HaksaManageService.HaksaMainView" sourceFile="HaksaMainView.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="HaksaManageService.HaksaModel" sourceFile="HaksaModel.java" interface="false" size="71" bugs="0"/>
+      <ClassStats class="HaksaManageService.HaksaModifyView" sourceFile="HaksaModifyView.java" interface="false" size="109" bugs="0"/>
+      <ClassStats class="HaksaManageService.HaksaProfView" sourceFile="HaksaProfView.java" interface="false" size="125" bugs="0"/>
+      <ClassStats class="HaksaManageService.HaksaStuView" sourceFile="HaksaStuView.java" interface="false" size="125" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="LectureManageSystem" total_bugs="0" total_types="8" total_size="616">
+      <ClassStats class="LectureManageSystem.LectureDeleteView" sourceFile="LectureDeleteView.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureMainController" sourceFile="LectureMainController.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureMainModel" sourceFile="LectureMainModel.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureMainView" sourceFile="LectureMainView.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureNewView" sourceFile="LectureNewView.java" interface="false" size="140" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureRegisterView" sourceFile="LectureRegisterView.java" interface="false" size="121" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureService" sourceFile="LectureService.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="LectureManageSystem.LectureUpdateView" sourceFile="LectureUpdateView.java" interface="false" size="140" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="TestPackage" total_bugs="0" total_types="1" total_size="8">
+      <ClassStats class="TestPackage.CouserManageServiceMainTester" sourceFile="CouserManageServiceMainTester.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="UserManageService" total_bugs="0" total_types="2" total_size="79">
+      <ClassStats class="UserManageService.LoginView" sourceFile="LoginView.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="UserManageService.UserModel" sourceFile="UserModel.java" interface="false" size="26" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="mainpackage" total_bugs="0" total_types="14" total_size="900">
+      <ClassStats class="mainpackage.BAMainView" sourceFile="BAMainView.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="mainpackage.CSMainView" sourceFile="CSMainView.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="mainpackage.ChangePasswordView" sourceFile="ChangePasswordView.java" interface="false" size="74" bugs="0"/>
+      <ClassStats class="mainpackage.Controller" sourceFile="Controller.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="mainpackage.InformationSystem" sourceFile="InformationSystem.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="mainpackage.LoginModel" sourceFile="LoginModel.java" interface="false" size="25" bugs="0"/>
+      <ClassStats class="mainpackage.LoginView" sourceFile="LoginView.java" interface="false" size="58" bugs="0"/>
+      <ClassStats class="mainpackage.MainController" sourceFile="MainController.java" interface="false" size="474" bugs="0"/>
+      <ClassStats class="mainpackage.Model" sourceFile="Model.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="mainpackage.PMainView" sourceFile="PMainView.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="mainpackage.SMainView" sourceFile="SMainView.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="mainpackage.View" sourceFile="View.java" interface="true" size="6" bugs="0"/>
+      <ClassStats class="mainpackage.loginSpec" sourceFile="loginSpec.java" interface="false" size="22" bugs="0"/>
+      <ClassStats class="mainpackage.loginType" sourceFile="loginType.java" interface="false" size="22" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="643" invocations="1761" avgMicrosecondsPerInvocation="365" maxMicrosecondsPerInvocation="22291" standardDeviationMicrosecondsPerInvocation="867"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="535" invocations="1765" avgMicrosecondsPerInvocation="303" maxMicrosecondsPerInvocation="3669" standardDeviationMicrosecondsPerInvocation="286"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="443" invocations="525" avgMicrosecondsPerInvocation="844" maxMicrosecondsPerInvocation="72288" standardDeviationMicrosecondsPerInvocation="3907"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="369" invocations="372" avgMicrosecondsPerInvocation="993" maxMicrosecondsPerInvocation="18593" standardDeviationMicrosecondsPerInvocation="2031"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="353" invocations="372" avgMicrosecondsPerInvocation="949" maxMicrosecondsPerInvocation="16675" standardDeviationMicrosecondsPerInvocation="1943"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="330" invocations="525" avgMicrosecondsPerInvocation="630" maxMicrosecondsPerInvocation="33362" standardDeviationMicrosecondsPerInvocation="1926"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="277" invocations="525" avgMicrosecondsPerInvocation="528" maxMicrosecondsPerInvocation="44047" standardDeviationMicrosecondsPerInvocation="2192"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindBadCast2" totalMilliseconds="267" invocations="64" avgMicrosecondsPerInvocation="4178" maxMicrosecondsPerInvocation="239068" standardDeviationMicrosecondsPerInvocation="29672"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="235" invocations="1234" avgMicrosecondsPerInvocation="190" maxMicrosecondsPerInvocation="6650" standardDeviationMicrosecondsPerInvocation="409"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="227" invocations="525" avgMicrosecondsPerInvocation="433" maxMicrosecondsPerInvocation="32567" standardDeviationMicrosecondsPerInvocation="1593"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="221" invocations="546" avgMicrosecondsPerInvocation="406" maxMicrosecondsPerInvocation="17080" standardDeviationMicrosecondsPerInvocation="1115"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="220" invocations="539" avgMicrosecondsPerInvocation="408" maxMicrosecondsPerInvocation="14197" standardDeviationMicrosecondsPerInvocation="1093"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="193" invocations="556" avgMicrosecondsPerInvocation="347" maxMicrosecondsPerInvocation="17216" standardDeviationMicrosecondsPerInvocation="1010"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="151" invocations="351" avgMicrosecondsPerInvocation="432" maxMicrosecondsPerInvocation="10639" standardDeviationMicrosecondsPerInvocation="939"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="126" invocations="372" avgMicrosecondsPerInvocation="340" maxMicrosecondsPerInvocation="8655" standardDeviationMicrosecondsPerInvocation="806"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="120" invocations="372" avgMicrosecondsPerInvocation="323" maxMicrosecondsPerInvocation="39734" standardDeviationMicrosecondsPerInvocation="2222"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="110" invocations="556" avgMicrosecondsPerInvocation="198" maxMicrosecondsPerInvocation="59540" standardDeviationMicrosecondsPerInvocation="2529"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.scala.SSRFDetector" totalMilliseconds="110" invocations="64" avgMicrosecondsPerInvocation="1723" maxMicrosecondsPerInvocation="62861" standardDeviationMicrosecondsPerInvocation="7823"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="107" invocations="475" avgMicrosecondsPerInvocation="225" maxMicrosecondsPerInvocation="30923" standardDeviationMicrosecondsPerInvocation="1478"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="98" invocations="372" avgMicrosecondsPerInvocation="263" maxMicrosecondsPerInvocation="3390" standardDeviationMicrosecondsPerInvocation="462"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="89" invocations="1711" avgMicrosecondsPerInvocation="52" maxMicrosecondsPerInvocation="2549" standardDeviationMicrosecondsPerInvocation="137"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="73" invocations="372" avgMicrosecondsPerInvocation="198" maxMicrosecondsPerInvocation="3917" standardDeviationMicrosecondsPerInvocation="458"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="72" invocations="372" avgMicrosecondsPerInvocation="195" maxMicrosecondsPerInvocation="16573" standardDeviationMicrosecondsPerInvocation="911"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="72" invocations="64" avgMicrosecondsPerInvocation="1134" maxMicrosecondsPerInvocation="10427" standardDeviationMicrosecondsPerInvocation="1673"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="72" invocations="64" avgMicrosecondsPerInvocation="1133" maxMicrosecondsPerInvocation="6699" standardDeviationMicrosecondsPerInvocation="1374"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.file.PathTraversalDetector" totalMilliseconds="68" invocations="64" avgMicrosecondsPerInvocation="1063" maxMicrosecondsPerInvocation="10366" standardDeviationMicrosecondsPerInvocation="1636"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="64" invocations="372" avgMicrosecondsPerInvocation="173" maxMicrosecondsPerInvocation="11081" standardDeviationMicrosecondsPerInvocation="1059"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="63" invocations="64" avgMicrosecondsPerInvocation="985" maxMicrosecondsPerInvocation="23422" standardDeviationMicrosecondsPerInvocation="3451"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.sql.SqlInjectionDetector" totalMilliseconds="59" invocations="64" avgMicrosecondsPerInvocation="928" maxMicrosecondsPerInvocation="10688" standardDeviationMicrosecondsPerInvocation="1684"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.obl.ObligationAnalysis" totalMilliseconds="58" invocations="59" avgMicrosecondsPerInvocation="986" maxMicrosecondsPerInvocation="8353" standardDeviationMicrosecondsPerInvocation="1604"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.xml.StdXmlTransformDetector" totalMilliseconds="55" invocations="64" avgMicrosecondsPerInvocation="865" maxMicrosecondsPerInvocation="11496" standardDeviationMicrosecondsPerInvocation="1575"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="55" invocations="525" avgMicrosecondsPerInvocation="105" maxMicrosecondsPerInvocation="4720" standardDeviationMicrosecondsPerInvocation="305"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="55" invocations="372" avgMicrosecondsPerInvocation="148" maxMicrosecondsPerInvocation="5451" standardDeviationMicrosecondsPerInvocation="418"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.custom.CustomInjectionDetector" totalMilliseconds="54" invocations="64" avgMicrosecondsPerInvocation="844" maxMicrosecondsPerInvocation="9206" standardDeviationMicrosecondsPerInvocation="1440"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.xpath.XPathInjectionDetector" totalMilliseconds="54" invocations="64" avgMicrosecondsPerInvocation="843" maxMicrosecondsPerInvocation="9221" standardDeviationMicrosecondsPerInvocation="1388"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.ldap.LdapInjectionDetector" totalMilliseconds="53" invocations="64" avgMicrosecondsPerInvocation="832" maxMicrosecondsPerInvocation="10160" standardDeviationMicrosecondsPerInvocation="1430"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.script.OgnlInjectionDetector" totalMilliseconds="52" invocations="64" avgMicrosecondsPerInvocation="822" maxMicrosecondsPerInvocation="9161" standardDeviationMicrosecondsPerInvocation="1358"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="52" invocations="525" avgMicrosecondsPerInvocation="100" maxMicrosecondsPerInvocation="3097" standardDeviationMicrosecondsPerInvocation="285"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.trust.TrustBoundaryViolationValueDetector" totalMilliseconds="52" invocations="64" avgMicrosecondsPerInvocation="813" maxMicrosecondsPerInvocation="11865" standardDeviationMicrosecondsPerInvocation="1590"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.redirect.UnvalidatedRedirectDetector" totalMilliseconds="51" invocations="64" avgMicrosecondsPerInvocation="803" maxMicrosecondsPerInvocation="11778" standardDeviationMicrosecondsPerInvocation="1571"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.scala.ScalaSensitiveDataExposureDetector" totalMilliseconds="51" invocations="64" avgMicrosecondsPerInvocation="798" maxMicrosecondsPerInvocation="10948" standardDeviationMicrosecondsPerInvocation="1507"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.fileDisclosure.FileDisclosureDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="779" maxMicrosecondsPerInvocation="9765" standardDeviationMicrosecondsPerInvocation="1407"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="778" maxMicrosecondsPerInvocation="7736" standardDeviationMicrosecondsPerInvocation="1224"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.command.CommandInjectionDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="777" maxMicrosecondsPerInvocation="9699" standardDeviationMicrosecondsPerInvocation="1371"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.trust.TrustBoundaryViolationAttributeDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="773" maxMicrosecondsPerInvocation="11161" standardDeviationMicrosecondsPerInvocation="1468"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.script.ScriptInjectionDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="770" maxMicrosecondsPerInvocation="9640" standardDeviationMicrosecondsPerInvocation="1318"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="49" invocations="372" avgMicrosecondsPerInvocation="131" maxMicrosecondsPerInvocation="11485" standardDeviationMicrosecondsPerInvocation="628"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.sql.AndroidSqlInjectionDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="766" maxMicrosecondsPerInvocation="8925" standardDeviationMicrosecondsPerInvocation="1294"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.formatter.FormatStringManipulationDetector" totalMilliseconds="49" invocations="64" avgMicrosecondsPerInvocation="766" maxMicrosecondsPerInvocation="9110" standardDeviationMicrosecondsPerInvocation="1352"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.scala.XssMvcApiDetector" totalMilliseconds="48" invocations="64" avgMicrosecondsPerInvocation="761" maxMicrosecondsPerInvocation="8906" standardDeviationMicrosecondsPerInvocation="1251"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.crlf.CrlfLogInjectionDetector" totalMilliseconds="48" invocations="64" avgMicrosecondsPerInvocation="753" maxMicrosecondsPerInvocation="9062" standardDeviationMicrosecondsPerInvocation="1303"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="47" invocations="64" avgMicrosecondsPerInvocation="748" maxMicrosecondsPerInvocation="4830" standardDeviationMicrosecondsPerInvocation="928"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.aws.AwsQueryInjectionDetector" totalMilliseconds="47" invocations="64" avgMicrosecondsPerInvocation="748" maxMicrosecondsPerInvocation="8275" standardDeviationMicrosecondsPerInvocation="1210"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.HttpResponseSplittingDetector" totalMilliseconds="47" invocations="64" avgMicrosecondsPerInvocation="746" maxMicrosecondsPerInvocation="9528" standardDeviationMicrosecondsPerInvocation="1321"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.http.HttpParameterPollutionDetector" totalMilliseconds="47" invocations="64" avgMicrosecondsPerInvocation="739" maxMicrosecondsPerInvocation="7379" standardDeviationMicrosecondsPerInvocation="1195"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.crypto.cipher.DesUsageDetector" totalMilliseconds="47" invocations="64" avgMicrosecondsPerInvocation="736" maxMicrosecondsPerInvocation="8262" standardDeviationMicrosecondsPerInvocation="1281"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="46" invocations="372" avgMicrosecondsPerInvocation="126" maxMicrosecondsPerInvocation="2091" standardDeviationMicrosecondsPerInvocation="268"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.ExternalConfigurationControlDetector" totalMilliseconds="46" invocations="64" avgMicrosecondsPerInvocation="721" maxMicrosecondsPerInvocation="9199" standardDeviationMicrosecondsPerInvocation="1265"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
