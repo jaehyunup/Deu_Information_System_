@@ -8,7 +8,7 @@
 
 해당 프로젝트는 위의 익명의 사용자가 제출한 문제기술서를 통해 사용자의 요구사항을 분석하고 그를 토대로 필요 기능을 정립하고, 시스템을 설계 및 구현하는 프로젝트 입니다.
 > **참고 사항:**
-> - 설계 및 개발간 [Unified Process](https://en.wikipedia.org/wiki/Unified_Process) 를 이용한다.
+> - 설계 및 개발간 [Agile Unified Process](https://en.wikipedia.org/wiki/Agile_Unified_Process) 를 이용한다.
 > - 프로그램 개발 언어는 JAVA, IDE는 Eclipse 를 이용한다.
 > - 구현에 목적을 두기보다 설계및 그 과정에 목적을 두고 진행한다.
 
